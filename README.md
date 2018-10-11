@@ -1,1 +1,2 @@
-# learning grapgQL in Public
+# Learning grapgQL in Public
+- [ ] Learn GraphQL
